@@ -14,10 +14,10 @@ function forLoop(array){
   
 }
 
-function whileLoop(number){
-  while(number>=0){
-    console.log(number);
-    number--;
+function whileLoop(n){
+  while(nr>=0){
+    console.log(n);
+    n--;
   }
   return 'done';
 }
