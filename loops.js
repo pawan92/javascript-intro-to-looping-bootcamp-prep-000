@@ -15,10 +15,10 @@ function forLoop(array){
 }
 
 function whileLoop(n) {
-  let countdown = n;
+  let i = n;
  
-     while (countdown > 0) {
-       console.log(--countdown)
+     while (i > 0) {
+       console.log(--i)
      }
      return "done";
    }
